@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ocrdocumentos-270422",
+  "private_key_id": "bb7b5569349c789aa93205fce0da9bb5b0ba7a10",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCg0tYg7Pc/+r4i\nV4PI0aZPnJLMuEmNWXZ6WejUzgBM7IIb39gNaWbHCICbwxtSKmuf38pxiU3zbG7z\nVALI3WMAFq8OsnxEW7jhEIErUO+fgVeKxu0C503FCx/p4tIoeF8hO4fNH3V7kxQ5\nTszRnpA71O9IL3/GLh9rzox8HSOPlkkZoq0tAi7aBr5Fm1fV7gJYJ1DrSPGeMeBT\nQk/NCnLL2v1Sj3qBsLkcZsZ3nvaM1x65EfzvJdaZSA7JFNjRi8mlmpZtPbgqUZ9y\nX2j+GKKR9M17cOBXLolhgAcoyM95pkF8565Wt3p5isgqZaHv9AA4QUONFA3keG2G\ntKhaeGY9AgMBAAECggEABmWh3ykTLqgmeaQ52Y+T9MpkFnY6yr9lFI8l++z+cGY0\nngTkiagIeWCaXle/laBFVqnRWicdgtIXLwuc7r4g9XxxgH1TWb687GA6hcK66AEo\n6RwU37mGoOYFN3RDwBiwTq3uWWznwJTESFac6WD2w20qtW2E625N5qe5Hn4O5OOu\ndmCGnoGNK+vB1au7EcDRJMLtQpO1OsNul1uoHVBqMXLP4tFj1rradnuLY1mznRar\npOiwomor9VslCkdNIYEVxZKWlabyVr+CaFiUrN/OfqJxQ3+8WJbkPozeeDf7di5h\nuByq68rhzvAMmUVWKbK6M+hEp7qBG0oYt9k181ILWwKBgQDVxT8NJIum4v7/4/dZ\n7++TzbbVi4nw5BL9WbGThNrybei0BKYFjE6deJq+p8wvKcHVwauj/UmqXqbXyxxe\nUW8/VZVXlwiZUtFd+Z19013Y/dcmAJvGP6f268gLWoQZxzhvModun4VFmG6nZvBy\nW4XoL4i3HFFebJWOOB9HZPeJwwKBgQDAl/h8TNx/eRuScUPPiBb+J9YSPzHe6kYI\n83wygWLccjVkVIvahZes5hmXWLGbIl81mJ31hRYG7OQ/tP0BOM+agCuYRsc/ghAC\nor2Yd7kQu5Vbm2c+bY+wSWKT0OiDAgnLbus0GUm3ZJ5G1cM/a31wkU7w5yU7fnIm\nflVvcOFP/wKBgQClL4AjVcQcN3g4oB24/7Evk1ze8q6q2HLcFv0jMxxFDS0uPhFU\nZDEzeciJ3vvmzeuck8VgOQ89eVqPkcHgGClQ1X9LacgZQmfKqGJMopH4ZV5lXT8C\nGJpgMZ4pN86wZMN1GaSRlO7U8o8/CEpw88wruN96L4Wo41tFxJRXBOxLJQKBgHuV\niSgKEjviNOUltUPIqihw25dd4dyPLF22EG5ARHX8+3HkJtIUg525EZbinSVVSw8T\nXdkci2PqQxT2SJuuHtmfgVn3oQeJqEhosYzS1nh8Rn1AHWIb3+ZZUN5VYb4fYrWd\n+WO3DmyWLlJ5/Q4HJblEJQnE6Ulh/FHjI2OdZZd1AoGANV9qH5l7cjBECAQFpb7M\n6DfThgOnU/7hXbSwI9zDQiWR6vv5TXC/Y1FRrmjL69Hhdn+DHS2H7mAr1MAp6pRa\nd9G6HzrlwbKvEGZVwhjYIfT0k/4v3O2KyW/FTS5R1RXaH41lb5EfBXl1G7JPT+LJ\nKPLld0/ACOnLHaOtejumIW0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "botanalisedocumentos@ocrdocumentos-270422.iam.gserviceaccount.com",
+  "client_id": "112097297740453797754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botanalisedocumentos%40ocrdocumentos-270422.iam.gserviceaccount.com"
+}

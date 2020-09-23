@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ocrimagens",
+  "private_key_id": "1b069cc4306d26a98113aec076d8f849f765c91f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJqxfwOVpBq/7J\niirh7S7Z3KpsWDlHoYVWYC53QYw//hmMcq/SCAVnen+eVKl8qtCkWmGum+p2MghW\nTrL7j6vumqvIaMKPNBb5U4EmaWisHemr0lsW7pwcvy5w5CdJxdLxgyISXD5GiluJ\njnRDNNNDw/WMEn92QaxNLBr+CPM7LFKyE02cFLU4H01JwCpln+H2sIffB6LLfNHt\nEX+I8Nu5F/V1YlJT4HRl+Q7K2X5RAXbC31z+WUh1DqmAKA5SQORFjFu0sg3817af\nXyx4z6rC7zXFd0hPy1ZtBK75kd/2m3ehc//I7pKry4KmzKQe8k7bvitxd3bdbmAY\nUfDvQothAgMBAAECggEAFcWQG8nhTdo280SknQf5aSFKz9AVfP950Omo0oyjysvQ\nr8o444ykoreFnA8JTjF1vWyZg5uHDDQaFNFBvulTlzqhBY2TxZiKy2eBt6clGwHO\ntpNK7LadaXgVWDA1cqA2BgdRcBh/y6dHuxnDQPcswLHg6jqcAqUT6C/1CQxnz/En\nZ4NHooT0dLthLRdRUsaC7jnqXZctqxpnMBXVv+/2zmDdnqSbci7Sto2mCAQUfDV2\nNMG193ILnzylrR8GuIsdmoW89HxN13ZqLyXdi23TT9OtFxQuL+L/BEQkv0PosKWJ\n4q1DGyWwVxPu/XM0Rp6ziPGadea08L4wJos6H3NccQKBgQD/INKxmAOgjZ6Vc7H2\nkHiJAgUhiekSL7I2JvSEVVh/wD7QNzF2LKsNJ7vIxCWKWpKHI2nW7+lS9YrwNRiK\njtKj7ilVbuyU43o1N6neCEWaYXqjrCHXV2cXQJ2PRs76JLxTiaYmStkTAFpFFoWa\nf7fRFwdg44W0CXPS4pgCz4GyWQKBgQDKW4F2DwbZ3N2esw7m7raq9rgrOBvHTBaC\nP2C/ePegwGgKBjxKWGzUXWgQtuOyGZ9qIPorZ5Tahd0m46TPLJeFavCrroBOtfHU\niDUT7AH0ddzaAJyAyeP3H+oBHkyL54TBitBTrxm91vEdrEaTvvF4LpjV6mTBMU6G\nomVNacYwSQKBgQDClQYc7RPXICwTUGoq44UK+b9wFP7uH/KL2qojQ/R7euRtaasP\ntoG/Rs6yEOeQ3gNjjl7qz4/k9eFB0z0kcEm3Pa3IuxE1fUl3zTyBW026sR4YNvCY\njNDTqzSAUkEKB3qbPCC8k9l75Ij0qHi9nStVDXtTKjSPW6Y68Rd/DUSeAQKBgEXX\nHTB88TViKE8sp5kGjJ8m9dtcyyGW3jHn4+FRw82EeqPzEP3r1OvarR8PsDh45W9A\noHc4kcR17SUN7oTedBFFHnlyibAg1a0vsXoFu4r+3tGS4nEEvRw+tIncRjkHF+eg\nnFQ1m+HMfH1sRxOZFEgRdQhnlIylEuAezm3QcumZAoGBAKOPGqGHjy6YJHUjuepM\niu1SwZ16Eu/2umBt8XKujJOCg70TQ3nL0he19De5ZZCQvO/k+3lkvO2gxmkKZBdT\ntQZK5ay+C2IsfRs+GtgLQSwtIs1Utf3Yt3VGO+1SWKmnWWCaUNjXwfDsdGm35GDy\nBbxkgVNW0FFt1J/9jLylCvI2\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocrimagens@ocrimagens.iam.gserviceaccount.com",
+  "client_id": "106159732867904979547",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocrimagens%40ocrimagens.iam.gserviceaccount.com"
+}
